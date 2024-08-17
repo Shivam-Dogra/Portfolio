@@ -1,14 +1,8 @@
 import React from "react";
-import mock01 from '../assets/images/mock01.png';
-import mock02 from '../assets/images/mock02.png';
-import mock03 from '../assets/images/mock03.png';
-import mock04 from '../assets/images/mock04.png';
-import mock05 from '../assets/images/mock05.png';
-import mock06 from '../assets/images/mock06.png';
-import mock07 from '../assets/images/mock07.png';
-import mock08 from '../assets/images/mock08.png';
-import mock09 from '../assets/images/mock09.png';
-import mock10 from '../assets/images/phoneIntellect.jpg';
+import mock07 from '../assets/images/socketProgramming.png';
+import mock08 from '../assets/images/UniRoommates.png';
+import mock10 from '../assets/images/phoneintellect.png';
+import mock09 from '../assets/images/GoTravelFrance.png'; 
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -18,7 +12,7 @@ function Project() {
         <div className="projects-grid">
             <div className="project">
                 <a href="https://github.com/Shivam-Dogra/MobilePlanPriceAnalysis" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/Shivam-Dogra/MobilePlanPriceAnalysis" target="_blank" rel="noreferrer"><h2>Phone Intellect</h2></a>
+                <a href="https://github.com/Shivam-Dogra/MobilePlanPriceAnalysis_Frontend/tree/shivam" target="_blank" rel="noreferrer"><h2>Phone Intellect</h2></a>
                 <p>Implemented a comprehensive mobile plan comparison platform using React for frontend and Spring Boot for backend to compare mobile plans from Rogers, Bell and Freedom Mobile on basis of price, data allowance, network coverage and additional features.</p> 
             </div>
             <div className="project">

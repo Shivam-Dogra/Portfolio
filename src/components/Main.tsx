@@ -18,7 +18,7 @@ function Main() {
             <a href="https://www.linkedin.com/in/shivamdogra/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1 >Shivam Dogra</h1>
-          <p>Test Automation | Full stack developement</p>
+          <p>Test Automation | Full stack development</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/Shivam-Dogra" target="_blank" rel="noreferrer"><GitHubIcon/></a>

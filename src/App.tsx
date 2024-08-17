@@ -5,6 +5,7 @@ import {
   Expertise,
   Project,
   Contact,
+  Blog,
   Navigation,
   Footer,
 } from "./components";
@@ -35,6 +36,7 @@ function App() {
             <Timeline/>
             <Project/>
             <Contact/>
+            <Blog/>
         </FadeIn>
         <Footer />
     </div>

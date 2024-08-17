@@ -64,7 +64,7 @@ function Timeline() {
             <h4 className="vertical-timeline-element-subtitle">Mumbai, IN</h4>
             <p>
             <ul>
-              <li>Designed and developed RESTful APIs using Spring Boot, ensuring efficient communication between frontend and backend systems</li>
+              <li>Designed and developed REST APIs using Spring Boot, ensuring efficient communication between frontend and backend systems</li>
               <li>Collaborated with frontend developers, QA engineers, and Business Analyst to gather requirements, define API contracts, and deliver high-quality software solutions</li>
               </ul>
             </p>

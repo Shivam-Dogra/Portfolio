@@ -83,3 +83,11 @@
         }
     }
 }
+
+.skill img {
+    width: 450px;   // Fixed width
+    height: 580px;  // Fixed height
+    object-fit: cover;  // This will crop the image to fit within the specified dimensions
+    border-radius: 5px;
+    margin-bottom: 10px;  // Space between image and text
+}
