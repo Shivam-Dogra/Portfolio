@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c9ce16ba.css",
+    "main.js": "/Portfolio/static/js/main.04e964ad.js",
+    "static/js/453.b05d8aa5.chunk.js": "/Portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/portfolio-image.png": "/Portfolio/static/media/portfolio-image.24d67c36bf8e15f9ba14.png",
+    "static/media/EP-Presentation.jpg": "/Portfolio/static/media/EP-Presentation.f96ac2408e9c01445755.jpg",
+    "static/media/GoTravelFrance.png": "/Portfolio/static/media/GoTravelFrance.a7f4f06baee4f6f3a767.png",
+    "static/media/ACC.jpg": "/Portfolio/static/media/ACC.9bac71679541fa8468d5.jpg",
+    "static/media/bg-light.png": "/Portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/UniRoommates.png": "/Portfolio/static/media/UniRoommates.50d511a00a0558997c5c.png",
+    "static/media/bg-dark.png": "/Portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/phoneintellect.png": "/Portfolio/static/media/phoneintellect.04a7129d47d94bbaa927.png",
+    "static/media/socketProgramming.png": "/Portfolio/static/media/socketProgramming.8b17fc6ebc45ebd0e8ae.png",
+    "index.html": "/Portfolio/index.html",
+    "main.c9ce16ba.css.map": "/Portfolio/static/css/main.c9ce16ba.css.map",
+    "main.04e964ad.js.map": "/Portfolio/static/js/main.04e964ad.js.map",
+    "453.b05d8aa5.chunk.js.map": "/Portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9ce16ba.css",
+    "static/js/main.04e964ad.js"
+  ]
+}
