@@ -8,7 +8,7 @@ import EP from "../assets/images/EP-Presentation.jpg";
 
 function Blog() {
     return (
-    <div className="container" id="Blog">
+    <div className="container" id="blog">
         <div className="skills-container">
             <h1>Blog</h1>
             <div className="skills-grid">
@@ -35,7 +35,6 @@ function Blog() {
 <p>UniRoommate boasts several key features, including a custom roommate search that matches students based on their study programs and lifestyle preferences. The platform ensures secure key-based authentication to protect user data and offers detailed personal profiles for informed decision-making. Additionally, it facilitates group management with unique access keys and encourages community engagement through local event discovery in Windsor. 💻</p>
 
 <p>I am incredibly proud of how we've utilized advanced technology to enhance student life, making the transition smoother for international students while fostering a sense of community and belonging 🤝</p>
-
 
                     
                 </div>
